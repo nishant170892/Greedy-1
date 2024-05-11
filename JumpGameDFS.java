@@ -1,4 +1,4 @@
-// Time Complexity : O(n) 
+// Time Complexity : O(nk)
 // Space Complexity : O(n)
 // Did this code successfully run on Leetcode : Yes, https://leetcode.com/problems/jump-game/
 // Any problem you faced while coding this : No
